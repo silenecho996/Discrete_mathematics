@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "c9b47c5ff058a35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d733e16e32d8874",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b36e92a9efd4da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "容斥原理与Möbius反演 + Pólya计数法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "容斥原理与Möbius反演 + Pólya计数法"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81d2c60b14e00603",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa74906e09ebe1a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f124f2b4253876e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e7aa5893840a1b66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "24fdf6989dde7c06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "20f902a8efce82db",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a44145492a24d5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ac9541ac1c80c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "容斥原理与Möbius反演 + Pólya计数法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "容斥原理与Möbius反演 + Pólya计数法 的反向链接列表"
+            }
+          },
+          {
+            "id": "6305598218338b93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "容斥原理与Möbius反演 + Pólya计数法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "容斥原理与Möbius反演 + Pólya计数法 的出链列表"
+            }
+          },
+          {
+            "id": "f35ff946056bbeff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "39e68773333f2bf0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "16d606e77745aa08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "容斥原理与Möbius反演 + Pólya计数法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "容斥原理与Möbius反演 + Pólya计数法 的大纲"
+            }
+          },
+          {
+            "id": "3dac55b3a00f6eed",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "nutstore-sync:Start sync": false,
+      "nutstore-sync:Stop sync": false,
+      "nutstore-sync:Open chatbox": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "5b36e92a9efd4da6",
+  "lastOpenFiles": [
+    "容斥原理与Möbius反演 + Pólya计数法.md",
+    "极值集合论.md"
+  ]
+}
