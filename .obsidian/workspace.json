@@ -11,14 +11,12 @@
             "id": "5b36e92a9efd4da6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "容斥原理与Möbius反演 + Pólya计数法.md",
-                "mode": "source",
-                "source": false
+                "file": "习题课.pdf"
               },
-              "icon": "lucide-file",
-              "title": "容斥原理与Möbius反演 + Pólya计数法"
+              "icon": "lucide-file-text",
+              "title": "习题课"
             }
           }
         ]
@@ -202,8 +200,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5b36e92a9efd4da6",
+  "active": "2f124f2b4253876e",
   "lastOpenFiles": [
+    "习题课.pdf",
+    "组合数学-4.pdf",
+    "极值集合论.pdf",
     "容斥原理与Möbius反演 + Pólya计数法.md",
     "极值集合论.md"
   ]
