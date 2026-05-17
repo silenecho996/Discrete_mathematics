@@ -11,12 +11,14 @@
             "id": "5b36e92a9efd4da6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "习题课.pdf"
+                "file": "期中论文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "习题课"
+              "icon": "lucide-file",
+              "title": "期中论文"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "20f902a8efce82db",
@@ -200,9 +203,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2f124f2b4253876e",
+  "active": "5b36e92a9efd4da6",
   "lastOpenFiles": [
     "习题课.pdf",
+    "期中论文.md",
     "组合数学-4.pdf",
     "极值集合论.pdf",
     "容斥原理与Möbius反演 + Pólya计数法.md",
