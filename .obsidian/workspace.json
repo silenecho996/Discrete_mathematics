@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "期中论文.md",
+                "file": "极值集合论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期中论文"
+              "title": "极值集合论"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "拉姆齐",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,11 +204,12 @@
   },
   "active": "5b36e92a9efd4da6",
   "lastOpenFiles": [
-    "习题课.pdf",
     "期中论文.md",
-    "组合数学-4.pdf",
-    "极值集合论.pdf",
     "容斥原理与Möbius反演 + Pólya计数法.md",
-    "极值集合论.md"
+    "习题课.pdf",
+    "极值集合论.md",
+    "25300440009_期中论文.pdf",
+    "组合数学-4.pdf",
+    "极值集合论.pdf"
   ]
 }
