@@ -11,14 +11,12 @@
             "id": "5b36e92a9efd4da6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "极值集合论.md",
-                "mode": "source",
-                "source": false
+                "file": "组合数学-4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "极值集合论"
+              "icon": "lucide-file-text",
+              "title": "组合数学-4"
             }
           }
         ]
@@ -204,12 +202,19 @@
   },
   "active": "5b36e92a9efd4da6",
   "lastOpenFiles": [
+    "社会主义发展史论文 1.docx",
     "期中论文.md",
+    "第十四周作业.pdf",
+    "25300440009_期中论文.pdf",
+    "社会主义发展史论文.docx",
+    "第十二周作业-1.pdf",
+    "第十三周作业.pdf",
+    "图论-4.pdf",
+    "图论-3.pdf",
+    "图论-2.pdf",
+    "极值集合论.md",
     "容斥原理与Möbius反演 + Pólya计数法.md",
     "习题课.pdf",
-    "极值集合论.md",
-    "25300440009_期中论文.pdf",
-    "组合数学-4.pdf",
-    "极值集合论.pdf"
+    "组合数学-4.pdf"
   ]
 }
